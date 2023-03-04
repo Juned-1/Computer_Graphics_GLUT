@@ -1,0 +1,9 @@
+To have found this on your own, you could have done:
+    sudo apt-cache search glut
+After you have installed package freeglut3-dev you can confirm it contains the needed GL files by issuing
+    dpkg -L freeglut3-dev
+Also install sudo apt-get install libxmu-dev libxi-dev
+    Refernce -- ask ubuntu.com 
+    how to install glut in linux? -- freeglut3
+Compile: glu files
+    gcc file_name.cpp -o object_file_name -lGL -lGLU -lglut

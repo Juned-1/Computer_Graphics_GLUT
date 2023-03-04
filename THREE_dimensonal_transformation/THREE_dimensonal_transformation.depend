@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1669916046 source:d:\computer graphics\three_dimensonal_transformation\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1426329928 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426329928 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
